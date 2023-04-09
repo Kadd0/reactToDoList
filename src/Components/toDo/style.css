@@ -19,7 +19,7 @@ button {
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 }
-
+h1{ text-align: center; color: #af5b5e; font-size: 70px; opacity: 0.5;}
 body {
 	font: 14px 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	line-height: 1.4em;
