@@ -1,4 +1,3 @@
-import './App.css';
 import ToDo from './Components/toDo/index.js';
 function App() {
   return (
